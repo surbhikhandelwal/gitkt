@@ -1,2 +1,2 @@
 # gitkt
-This is a info file
+This is a info file.
